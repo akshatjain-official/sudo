@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cehacker
+- 👋 Hi, I’m
 - 👀 I’m interested in Codings
 - 🌱 I’m currently learning in competition
 - 💞️ I’m looking to collaborate on 
